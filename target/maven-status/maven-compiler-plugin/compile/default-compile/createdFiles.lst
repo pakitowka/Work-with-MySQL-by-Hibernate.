@@ -1,0 +1,3 @@
+com\devcolibri\EnterPoint.class
+com\devcolibri\persistence\HibernateUtil.class
+com\devcolibri\entity\User.class
